@@ -26,3 +26,8 @@ set si
 " Make a tab equal to 4 spaces.
 set shiftwidth=4
 set tabstop=4
+set smarttab
+
+" Show matching brackets and set syntax highlighting
+set showmatch
+syntax on
