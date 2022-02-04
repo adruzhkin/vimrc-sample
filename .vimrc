@@ -22,3 +22,7 @@ set smartcase
 set lbr
 set ai
 set si
+
+" Make a tab equal to 4 spaces.
+set shiftwidth=4
+set tabstop=4
